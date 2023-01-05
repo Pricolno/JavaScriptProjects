@@ -23,8 +23,16 @@ window.addEventListener('click', function(event){
 
 
                 toogleCartStatus();
+
+                calcCartPriceAndDelivery();
             };     
     };
+ 
 
+    if (event.target.hasAttribute('data-action') && event.target.closest('.cart-wrapper')){
+        calcCartPriceAndDelivery();
+    };
+    
+       
 
 });

@@ -65,6 +65,9 @@ window.addEventListener('click', function(event){
     
         //
         toogleCartStatus();
+
+
+        calcCartPriceAndDelivery();
     };
     
 
