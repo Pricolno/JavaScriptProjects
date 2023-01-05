@@ -1,0 +1,1 @@
+# JavaScript projects for studying
