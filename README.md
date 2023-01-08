@@ -19,7 +19,7 @@ This is my first step in JavaScript. In few place there are links to usefull gid
 __________________________________________________
 ## Plagins for Visual Studio Code
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-* Enum (for HTML + CSS)
+* Emmet (for HTML + CSS)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) (for `Ayu Mirage Bordered` theme)
