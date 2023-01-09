@@ -20,6 +20,8 @@ __________________________________________________
 ## Plagins for Visual Studio Code
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * Emmet (for HTML + CSS)
+* [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+* [HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) (for `Ayu Mirage Bordered` theme)

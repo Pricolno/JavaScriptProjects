@@ -1,10 +1,25 @@
-body {
-    background-color: aquamarine;
+*{
+    box-sizing: border-box;
+}
 
-    margin: 0;
-    
+body {
+    margin: 0;    
     font-family: 'Montserrat', sans-serif;
 }
+
+.container{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.none {
+    display: none !important;
+}
+
+/* Header */
+
 .header {
     position: relative;
 
@@ -56,3 +71,66 @@ body {
     
     transform: translate(-50%, 0); 
 }
+
+/* Portfolio */
+
+.portfolio{
+    /* background-color: rebeccapurple; */
+    padding-top: 80px;
+    padding-bottom: 150px;
+
+}
+
+.portfolio-header{
+    margin: 0;
+    margin-bottom: 70px;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 130%;    
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}   
+
+.portfolio-cards-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card{
+    margin-bottom: 30px;
+    padding: 20px;
+    max-width: 540px;
+    background-color: white;
+    
+    box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
+}
+
+.card:last-child, .card:nth-last-child(2){
+    margin-bottom: 0;
+}
+
+.card-img{
+    margin-bottom: 20px;
+}
+
+.card-title{
+    margin: 0;
+    margin-bottom: 13px;
+
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.card p{
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #000000;
+}
+
