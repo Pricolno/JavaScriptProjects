@@ -4,7 +4,7 @@ This is my first step in JavaScript. In few place there are links to usefull gid
 
 * HTML + CSS
 0. basic HTML ([YouTube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
-1. src/portfolio : HTML + CSS ([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
+1. src/portfolio : HTML + CSS (+ jquery)([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
 
 
 * JavaScript
@@ -28,6 +28,8 @@ __________________________________________________
 __________________________________________________
 ## Tools for creating design
 * [Figma](https://www.figma.com/)
+* [coverr](https://coverr.co/) (video for jquery preview)
+
 
 ______________________________
 ![](./doc/rin_look_at_lune.jpg)
