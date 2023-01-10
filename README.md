@@ -37,3 +37,8 @@ ______________________________
 
 _________________________________
 ## Usefull link
+
+* [w3schools](https://www.w3schools.com/) 
+([JavaScript](https://www.w3schools.com/js/default.asp),
+    [jQuery](https://www.w3schools.com/jquery/default.asp), 
+[Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp), and many-many intresting things)
