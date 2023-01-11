@@ -28,3 +28,4 @@ function renderProjects(projectArray){
 };
 
 getProduct();
+

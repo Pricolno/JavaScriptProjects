@@ -35,6 +35,15 @@
 
         </div>
     </div>
-    <script src="./js/renderContacts.js"></script>
+    
+    <script type="module">
+        
+        let locList = window.location.pathname.split('/');
+        let pad = "";
+        if (locList.at(-2) == 'pages'){
+            pad = "../";
+        };
+        import(`./${pad}js/renderContacts.js`); // async
+    </script>
 
 </footer>

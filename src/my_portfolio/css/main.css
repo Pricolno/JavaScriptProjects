@@ -159,6 +159,13 @@ img{
     line-height: 130%;
 }
 
+.cv-btn-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
 /* Footer */
 
 .footer{
@@ -300,7 +307,8 @@ img{
     height: 60px;
     padding-left: 30px;
     padding-right: 30px;
-    
+    margin-top: 50px;
+
     border: 3px solid #275BEC;
     border-radius: 50px;
 

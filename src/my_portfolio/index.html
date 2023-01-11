@@ -13,16 +13,6 @@
 
 </head>
 <body>
-  
-    <script>
-        $(function(){
-            $("#footer_import").load("./template/footer.html");
-            // $("#header_import").load("./template/header.html");
-        });
-    </script>
-    
-    <!-- <div id="header_import"></div> -->
-
     <header class="header" id="header">
         <h1 class="header-title">Александр Наумцев</h1>
         <div class="header-subtitle">Гений, Миллиардер, Плейбой, Филантроп</div>
@@ -47,11 +37,22 @@
                 </div>
                 <!-- // portfolio-cards-wrapper -->
                 
+                <div class="cv-btn-row">
+                    <a href="./pages/about_me.html" target="_blank" class="project-btn-back">Перейти к резюме</a>
+                    <a href="./doc/CV_NaumtsevAleksandr.pdf" target="_blank" class="project-btn-back">Скачать резюме</a>
+                </div>
+
             </div>
 
         </section>
     </main>
 
+    <script>
+        $(function(){
+            $("#footer_import").load("./template/footer.html");
+            // $("#header_import").load("./template/header.html");
+        });
+    </script>
     <div id="footer_import" ></div>
     
 
@@ -61,7 +62,7 @@
     <!-- our js-scripts -->
     <script  src="./js/main.js"></script>
     <script  src="./js/renderProjects.js"></script>
-
-
+    
+    
 </body>
 </html>
