@@ -1,18 +1,45 @@
 [
     {
-    "id" : 1,
     "title": "Pamagite-dorm_social_network",
     "description": "Коммуникация и лёгкая навигация в общежитии.",
-    "stackTechno": ["python", "telegramApi"],
-    "imgSrc": "student_house_bot_commands.png",
+    "stackTechno": ["python", "telegramApi", "posgreSQL"],
+    "imgSrc": "student_house_bot_commands.jpg",
     "link": "https://github.com/Pricolno/Pamagite-dorm_social_network-"
     },
     {
-    "id" : 2,
     "title": "protocol_detection_bot",
     "description": "Распознование результатов олимпиад с бланков и перевод в удобный формат.",
     "stackTechno": ["python", "pytorch", "googleApi"],
     "imgSrc": "blank_of_olymp.jpg",
     "link": "https://github.com/bicikar/protocol_detection_bot"
+    },
+    {
+    "title": "D* lite vs LSS-LRTA*",
+    "description": "Incremental algorithm for path planning in a dynamic environment.",
+    "stackTechno": ["python", "pyplotlib", "pygame"],
+    "imgSrc": "D_star_lite.jpg",
+    "link": "https://github.com/Pricolno/D_star_lite_vs_LSS_LRTA_star"
+    },
+    {
+    "title": "AgarIoRU",
+    "description": "Сетевая песочница по мотивам популярной игры agario.",
+    "stackTechno": ["python", "pygame", "socket"],
+    "imgSrc": "agario.jpg",
+    "link": "https://github.com/Pricolno/Games/tree/main/AgarIoRU"
+    },
+    {
+    "title": "PosgreSQL",
+    "description": "Database autumn 2022 SPbSU.",
+    "stackTechno": ["PosgreSQL", "PLpgSQL", "pgadmin4", "dbdiagram.io"],
+    "imgSrc": "posgresql_recursive.jpg",
+    "link": "https://github.com/Pricolno/Database_autumn_2022_spbu"
+    },
+    {
+        "title": "Учебные проекты по C/C++",
+        "description": "Контейнеры, сжатие данных, поворот фотографии.",
+        "stackTechno": ["C", "C++", "make", "gdb", "valgrind"],
+        "imgSrc": "huffman_c++.jpg",
+        "link": "https://github.com/Pricolno/cpp-labs"
     }
+
 ]

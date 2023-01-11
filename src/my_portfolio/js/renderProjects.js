@@ -10,7 +10,7 @@ async function getProduct(){
 function renderProjects(projectArray){
     projectArray.forEach(projectItem => {
         const projectHTML = `
-            <div class="card" data-id=${projectItem.id}>
+            <div class="card">
                 <a href="${projectItem.link}" class="card-link" target="_blank">
                     <img class="card-img" src="./img/portfolio/${projectItem.imgSrc}" alt="Многостраничный сайт">
                     <h3 class="card-title">${projectItem.title}</h3>
