@@ -1,0 +1,18 @@
+[
+    {
+    "id" : 1,
+    "title": "Pamagite-dorm_social_network",
+    "description": "Коммуникация и лёгкая навигация в общежитии.",
+    "stackTechno": ["python", "telegramApi"],
+    "imgSrc": "student_house_bot_commands.png",
+    "link": "https://github.com/Pricolno/Pamagite-dorm_social_network-"
+    },
+    {
+    "id" : 2,
+    "title": "protocol_detection_bot",
+    "description": "Распознование результатов олимпиад с бланков и перевод в удобный формат.",
+    "stackTechno": ["python", "pytorch", "googleApi"],
+    "imgSrc": "blank_of_olymp.jpg",
+    "link": "https://github.com/bicikar/protocol_detection_bot"
+    }
+]
