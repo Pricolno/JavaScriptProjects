@@ -7,13 +7,13 @@ This is my first step in JavaScript. In few place there are links to usefull gid
 
 * HTML + CSS
 0. basic HTML ([YouTube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
-1. src/portfolio : HTML + CSS (+ JQuery)([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
+1. [src/example_portfolio](https://pricolno.github.io/JavaScriptProjects/src/example_portfolio/) : HTML + CSS + JS (+ JQuery)([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
 
 
 * JavaScript
 
 0. basic things ([YouTube](https://www.youtube.com/watch?v=maPRR_jjyOE))
-1. src/simple_sushi_shop ([YouTube](https://www.youtube.com/watch?v=pIgyoL5FjgI))
+1. [src/simple_sushi_shop](https://pricolno.github.io/JavaScriptProjects/src/simple_sushi_shop/) ([YouTube](https://www.youtube.com/watch?v=pIgyoL5FjgI))
 
 * React JS (in future) 
 
