@@ -19,6 +19,12 @@
     .footer-col:first-child{
         margin-bottom: 0;
     }
+
+    .cv-pdf{
+        height: 740px;
+        width: 60%;
+
+    }
 }
 
 
@@ -106,6 +112,9 @@
         max-width: 320;
     }
 
+    .cv-btn-row{
+        flex-direction: column;
+    }
 
 }
 
