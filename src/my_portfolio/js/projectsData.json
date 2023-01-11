@@ -1,5 +1,12 @@
 [
     {
+    "title": "D* lite vs LSS-LRTA*",
+    "description": "Incremental algorithm for path planning in a dynamic environment.",
+    "stackTechno": ["python", "pyplotlib", "pygame"],
+    "imgSrc": "D_star_lite.jpg",
+    "link": "https://github.com/Pricolno/D_star_lite_vs_LSS_LRTA_star"
+    },
+    {
     "title": "Pamagite-dorm_social_network",
     "description": "Коммуникация и лёгкая навигация в общежитии.",
     "stackTechno": ["python", "telegramApi", "posgreSQL"],
@@ -14,11 +21,11 @@
     "link": "https://github.com/bicikar/protocol_detection_bot"
     },
     {
-    "title": "D* lite vs LSS-LRTA*",
-    "description": "Incremental algorithm for path planning in a dynamic environment.",
-    "stackTechno": ["python", "pyplotlib", "pygame"],
-    "imgSrc": "D_star_lite.jpg",
-    "link": "https://github.com/Pricolno/D_star_lite_vs_LSS_LRTA_star"
+        "title": "3D vision",
+        "description": "Детектирование уголков и нахождение позиции камеры по видео.",
+        "stackTechno": ["python", "cv2", "numpy"],
+        "imgSrc": "room.jpg",
+        "link": "https://github.com/Pricolno/3D-CV-2022/tree/final"
     },
     {
     "title": "AgarIoRU",
@@ -41,5 +48,4 @@
         "imgSrc": "huffman_c++.jpg",
         "link": "https://github.com/Pricolno/cpp-labs"
     }
-
 ]
