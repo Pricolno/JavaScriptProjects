@@ -1,6 +1,11 @@
 # JavaScript projects for studying
 
-## [My Portfolio |  You can read!](https://pricolno.github.io/JavaScriptProjects/src/my_portfolio/)
+<a href="https://pricolno.github.io/JavaScriptProjects/src/my_portfolio/" onclick="return ! window.open(this.href);">
+    <h3>
+    My Portfolio |  You can read!
+    <h3>
+</a>
+
 _________________________________________
 This is my first step in JavaScript. In few place there are links to usefull gide.
 
