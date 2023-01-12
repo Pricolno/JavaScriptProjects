@@ -3,7 +3,7 @@
 ## [My Portfolio |  You can read!](https://pricolno.github.io/JavaScriptProjects/src/my_portfolio/)
 
 _________________________________________
-This is my first step in JavaScript. In few place there are links to usefull gide.
+This is my first step in JavaScript.  In few place there are links to usefull gide.
 
 * HTML + CSS
 0. basic HTML ([YouTube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
