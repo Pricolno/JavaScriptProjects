@@ -47,5 +47,12 @@
         "stackTechno": ["C", "C++", "make", "gdb", "valgrind"],
         "imgSrc": "huffman_c++.jpg",
         "link": "https://github.com/Pricolno/cpp-labs"
+    },
+    {
+        "title": "JavaScript projects (in progress)",
+        "description": "I'am studing JS myself",
+        "stackTechno": ["html", "css", "js", "jquery", "bootstrap", "[react, node.js (in future)]"],
+        "imgSrc": "sushi_shop.jpg",
+        "link": "https://github.com/Pricolno/JavaScriptProjects"
     }
 ]
