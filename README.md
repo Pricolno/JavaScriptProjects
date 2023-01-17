@@ -7,18 +7,23 @@ This is my first step in JavaScript.  In few place there are links to usefull gi
 
 * HTML + CSS
 0. basic HTML ([YouTube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
-1. [src/example_portfolio](https://pricolno.github.io/JavaScriptProjects/src/example_portfolio/) : HTML + CSS + JS (+ JQuery)([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
+1. [src/example_portfolio](https://pricolno.github.io/JavaScriptProjects/src/example_portfolio/) : HTML + CSS + JS (+ JQuery) ([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg))
 
 
 * JavaScript
 
 0. basic things ([YouTube](https://www.youtube.com/watch?v=maPRR_jjyOE))
 1. [src/simple_sushi_shop](https://pricolno.github.io/JavaScriptProjects/src/simple_sushi_shop/) ([YouTube](https://www.youtube.com/watch?v=pIgyoL5FjgI))
+2. [src/jquery_cost_car_calculator](https://pricolno.github.io/JavaScriptProjects/src/jquery_cost_car_calculator): JQuery ([Youtube](https://www.youtube.com/playlist?list=PL1NBhQGGj46b5_V2quKm4xIj8L5V59LR2)) (in future)
 
-* React JS (in future) 
 
-1. big educational program ([YouTube](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=WL&index=14&t=1426s))
- 
+* React JS
+
+1. big educational program ([YouTube](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=WL&index=14&t=1426s))  (in future) 
+2. src/react_portfolio : React ([YouTube](https://www.youtube.com/watch?v=Iz1NvqG7wTc)) (in future) 
+
+* Node JS
+1. Node JS фундаментальный курс: Node JS ([YouTube](https://www.youtube.com/watch?v=243pQXC5Ebs)) (in future)
 __________________________________________________
 ## Plagins for Visual Studio Code
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
