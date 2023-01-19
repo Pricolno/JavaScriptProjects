@@ -12,7 +12,11 @@ module.exports = class Application{
     constructor(){
         this.emitter = new EventEmitter();
         this.server = this._createServer();
+        this.middlewares = [];
+    };
 
+    addMiddlewares(middleware){
+        this.middlewares.push(middleware);
     };
 
     listen(port, callback){
@@ -33,10 +37,24 @@ module.exports = class Application{
 
     _createServer(){
         return http.createServer((req, res) =>{
-            const is_emmited = this.emitter.emit(this._getRouteMask(req.url, req.method), req, res);
-            if (!is_emmited){
-                res.end();
-            };
+            let body = "";
+            req.on('data', chunk => {
+                body += chunk;
+            });
+
+            req.on('end', () => {
+                if(body){
+                    req.body = JSON.parse(body);
+                };
+                this.middlewares.forEach(middleware => middleware(req, res));
+                // console.log(req.pathname);
+                console.log(req.params);
+                
+                const is_emmited = this.emitter.emit(this._getRouteMask(req.pathname, req.method), req, res);
+                if (!is_emmited){
+                    res.end();
+                };
+            });
         });
     };
 
