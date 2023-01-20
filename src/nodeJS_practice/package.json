@@ -4,7 +4,7 @@
   "description": "study node js ",
   "main": "test.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon --trace-deprecation index.js"
   },
   "author": "",
   "license": "ISC",
